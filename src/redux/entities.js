@@ -1,0 +1,1 @@
+export var REGISTER_USER = "REGISTER_USER"
